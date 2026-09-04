@@ -10,6 +10,12 @@ I am available for **remote freelance, contract, and part-time GIS or data-analy
 
 ## Interactive GIS projects
 
+### Kenya Biodiversity Web Map
+
+A public ArcGIS Online web map for exploring protected and conserved areas and their geographic distribution.
+
+**[Open the live web map →](https://www.arcgis.com/apps/mapviewer/index.html?webmap=fcc3bf8d58cb4ce1a1e47d1b5a18ef30)**
+
 ### Kenya Protected and Conserved Areas Dashboard
 
 An interactive ArcGIS Dashboard for exploring protected and conserved areas, mapped area, IUCN designations, designation types, and country-level patterns.
