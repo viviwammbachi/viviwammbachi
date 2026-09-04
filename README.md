@@ -8,6 +8,14 @@ I am available for **remote freelance, contract, and part-time GIS or data-analy
 
 [View my LinkedIn](https://www.linkedin.com/in/vivianmbachi-gis) · [Explore my repositories](https://github.com/viviwammbachi?tab=repositories)
 
+## Interactive GIS projects
+
+### Kenya Protected and Conserved Areas Dashboard
+
+An interactive ArcGIS Dashboard for exploring protected and conserved areas, mapped area, IUCN designations, designation types, and country-level patterns.
+
+**[Open the live dashboard →](https://www.arcgis.com/apps/dashboards/8af241dd9714436ba2c31787e47817e0)**
+
 ## What I can help with
 
 - GIS data cleaning, preparation, and quality checks
