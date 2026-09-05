@@ -17,7 +17,8 @@ I am available for **remote freelance, contract, and part-time GIS or data-analy
 An interactive conservation-mapping project using hornbill telemetry, protected and conserved areas, and hexagon hotspot analysis to highlight locations that may deserve closer conservation attention.
 
 **[Open the live web map →](https://www.arcgis.com/apps/mapviewer/index.html?webmap=9a9a263195b240bbb4a27244872a5cf7)**  
-**[Open the live dashboard →](https://www.arcgis.com/apps/dashboards/cb66d91fe6394ec6a610c9f13bdcf608)**
+**[Open the live dashboard →](https://www.arcgis.com/apps/dashboards/cb66d91fe6394ec6a610c9f13bdcf608)**  
+**[View the complete GitHub case study →](https://github.com/viviwammbachi/Congo_Basin_GeoHex_Conservation_Challenge_2026)**
 
 ### Kenya Biodiversity Web Map
 
