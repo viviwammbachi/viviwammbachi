@@ -69,7 +69,18 @@ Combined CHIRPS rainfall and Sentinel-2 NDVI indicators to screen drought-stress
 
 ---
 
-### 3. Nairobi Urban Inequality and Service Gaps
+### 3. Nairobi Urban Heat Vulnerability Analysis
+
+[![Urban Heat Vulnerability Map of Nairobi County](https://raw.githubusercontent.com/viviwammbachi/Nairobi_Urban_Heat_Vulnerability_Analysis/main/images/Nairobi_Urban_Heat_Vulnerability_Map.jpg)](https://github.com/viviwammbachi/Nairobi_Urban_Heat_Vulnerability_Analysis)
+
+Combined Landsat 9 land surface temperature and Sentinel-2 NDVI to map five environmental heat-vulnerability classes across Nairobi County.
+
+**Skills:** remote sensing, land surface temperature, Sentinel-2 NDVI, raster analysis, climate-risk mapping, cartographic design  
+**[View project →](https://github.com/viviwammbachi/Nairobi_Urban_Heat_Vulnerability_Analysis)**
+
+---
+
+### 4. Nairobi Urban Inequality and Service Gaps
 
 [![Nairobi ward priority levels](https://raw.githubusercontent.com/viviwammbachi/Nairobi_Urban_Inequality_Service_Gap_Analysis/main/Maps/Map_3_Nairobi_Ward_Priority_Levels.png)](https://github.com/viviwammbachi/Nairobi_Urban_Inequality_Service_Gap_Analysis)
 
@@ -80,7 +91,7 @@ Analyzed mapped schools, health facilities, roads, and water points at ward leve
 
 ---
 
-### 4. School Accessibility Analysis
+### 5. School Accessibility Analysis
 
 [![School distribution in Kenya](https://raw.githubusercontent.com/viviwammbachi/School_Accessibility_Analysis_Kenya/main/Output/Map_1_School_Distribution_Kenya.png)](https://github.com/viviwammbachi/School_Accessibility_Analysis_Kenya)
 
