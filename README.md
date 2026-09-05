@@ -92,7 +92,7 @@ Analyzed 37,930 mapped schools, including 29,097 primary and 8,833 secondary sch
 ## More GIS work
 
 - [Flood Exposure Screening for Schools and Health Facilities](https://github.com/viviwammbachi/flood-exposure-analysis-kenya) — DEM classification, river buffers, facility exposure screening, and county summaries.
-- [Healthcare Facility Proximity Analysis](https://github.com/viviwammbachi/healthcare-accessibilty-kenya1) — health-facility distribution, 5 km proximity zones, and county facility counts.
+- [Healthcare Facility Proximity Analysis](https://github.com/viviwammbachi/Healthcare_Facility_Proximity_Analysis_Kenya) — health-facility distribution, 5 km proximity zones, and county facility counts.
 
 ## Tools and methods
 
